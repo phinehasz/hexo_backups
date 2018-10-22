@@ -2,7 +2,6 @@
 title: sonar note
 date: 2018-09-23 23:08:00
 tags:
-top: true
 ---
 ### sonar搭建与基本知识笔记  
 学习如何改sonar-pmd插件:  
